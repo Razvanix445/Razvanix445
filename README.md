@@ -28,16 +28,24 @@ Here are some ideas to get you started:
       <br>C
     </td>
     <td align="center" width="96">
+      <img src="" width="48" height="48" alt="C++" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Java" />
+      <br>Java
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="C#" />
+      <br>C#
+    </td>
+    <td align="center" width="96">
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="Solidity" />
-      <br>Solidity
-    </td>
-    <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="48" height="48" alt="Go" />
-      <br>Go
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" width="48" height="48" alt="HTML" />
+      <br>HTML
     </td>
   </tr>
 </table>
@@ -48,10 +56,6 @@ Here are some ideas to get you started:
     <td align="center" width="96">
       <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="Pytorch" />
       <br>Pytorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/seleniumhq/seleniumhq-icon.svg" width="48" height="48" alt="Selenium" />
-      <br>Selenium
     </td>
     <td align="center" width="96">
       <img src="https://numpy.org/images/logo.svg" width="48" height="48" alt="Numpy" />
@@ -76,16 +80,8 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="https://www.anaconda.com/imager/assetsdo/arce00001000984d/img/anaconda-symbol-bw.svg" width="48" height="48" alt="Conda" />
-      <br>Conda
-    </td>
-    <td align="center" width="96">
-      <img src="https://jupyter.org/assets/main-logo.svg" width="48" height="48" alt="Jupyter" />
-      <br>Jupyter
-    </td>
-    <td align="center" width="96">
-      <img src="https://spark.apache.org/images/spark-logo-trademark.png" width="48" height="48" alt="Spark" />
-      <br>Spark
+      <img src="https://www.anaconda.com/imager/assetsdo/arce00001000984d/img/anaconda-symbol-bw.svg" width="48" height="48" alt="SQL Server" />
+      <br>SQL Server
     </td>
     <td align="center" width="96">
       <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="48" height="48" alt="MySQL" />
@@ -98,14 +94,5 @@ Here are some ideas to get you started:
     <td align="center" width="96">
       <img src="https://www.sqlite.org/images/sqlite370_banner.gif" width="48" height="48" alt="SQLite" />
       <br>SQLite
-    </td>
-    <td align="center" width="96">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Plotly-logo.png/800px-Plotly-logo.png" width="48" height="48" alt="Plotly" />
-      <br>Plotly
-    </td>
-    <td align="center" width="96">
-      <img src="https://matplotlib.org/stable/_static/images/logo2.svg" width="48" height="48" alt="Matplotlib" />
-      <br>Matplotlib
-    </td>
   </tr>
 </table>
