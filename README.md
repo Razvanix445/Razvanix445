@@ -50,33 +50,7 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-### Best frameworks and main libraries for Python3:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="Pytorch" />
-      <br>Pytorch
-    </td>
-    <td align="center" width="96">
-      <img src="https://numpy.org/images/logo.svg" width="48" height="48" alt="Numpy" />
-      <br>Numpy
-    </td>
-    <td align="center" width="96">
-      <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="96">
-      <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" width="48" height="48" alt="Sklearn" />
-      <br>Sklearn
-    </td>
-    <td align="center" width="96">
-      <img src="https://opencv.org/wp-content/uploads/2020/07/cropped-OpenCV_logo_white_600x.png" width="48" height="48" alt="OpenCV" />
-      <br>OpenCV
-    </td>
-  </tr>
-</table>
-
-### My tools for Data Manipulation & Visualisation:
+### Tools for Data Manipulation & Visualisation:
 <table>
   <tr>
     <td align="center" width="96">
