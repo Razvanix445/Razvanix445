@@ -76,11 +76,11 @@ Here are some ideas to get you started:
 <table>
   <tr>
     <td align="center" width="96">
-      <img src="![QT_icon](https://github.com/user-attachments/assets/f204cd94-4a10-4761-8550-fbb2a5f3bdad)" width="48" height="48" alt="QT" />
+      <img src="https://github.com/user-attachments/assets/f204cd94-4a10-4761-8550-fbb2a5f3bdad" width="48" height="48" alt="QT" />
       <br>Python
     </td>
     <td align="center" width="96">
-      <img src="![JavaFX_Logo](https://github.com/user-attachments/assets/e108e72a-18a0-4032-9565-1ec1ced3fe63)" width="48" height="48" alt="JavaFX" />
+      <img src="https://github.com/user-attachments/assets/e108e72a-18a0-4032-9565-1ec1ced3fe63" width="48" height="48" alt="JavaFX" />
       <br>C
     </td>
   </tr>
