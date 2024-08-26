@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [Stardew Valley App]()
+- 🔭 I’m currently working on [Stardew Valley App](https://github.com/Razvanix445/Stardew-Valley-App)
 <!--
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
