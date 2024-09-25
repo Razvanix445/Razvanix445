@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [Stardew Valley App](https://github.com/Razvanix445/Stardew-Valley-App)
+- 🔭 I’m currently working on [Stardew Strategist](https://github.com/Razvanix445/Stardew-Valley-App)
 - 🌱 I’m currently studying Computer Science at [Babeș-Bolyai University](https://www.ubbcluj.ro/en/)
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/rc445)
 <!--
@@ -87,3 +87,6 @@ Here are some ideas to get you started:
     </td>
   </tr>
 </table>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razvanix445&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
