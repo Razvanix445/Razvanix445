@@ -106,24 +106,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-### Data Science:
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://github.com/user-attachments/assets/be02b07e-9597-404f-b058-706dda945cb4" width="48" height="48" alt="Matplotlib" />
-      <br>Matplotlib
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.com/user-attachments/assets/6f30fe6b-ab9c-4cac-a936-2146b333bc45" width="48" height="48" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center" width="96">
-      <img src="https://github.com/user-attachments/assets/72d9c34a-9598-4be2-b250-af3eb3c2b2fe" width="48" height="48" alt="Pandas" />
-      <br>Pandas
-    </td>
-  </tr>
-</table>
-
 ### Other Tools:
 <table>
   <tr>
