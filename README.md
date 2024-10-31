@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [Stardew Strategist](https://github.com/Razvanix445/Stardew-Valley-App)
-- 🌱 I’m currently studying Computer Science at [Babeș-Bolyai University](https://www.ubbcluj.ro/en/)
+- 🔭 Currently working on [Stardew Strategist](https://github.com/Razvanix445/Stardew-Valley-App)
+- 🌱 Currently studying Computer Science at [Babeș-Bolyai University](https://www.ubbcluj.ro/en/)
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/rc445)
 <!--
 - 👯 I’m looking to collaborate on ...
