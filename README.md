@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 🔭 Currently working on [Stardew Strategist](https://github.com/Razvanix445/Stardew-Valley-App)
 - 🌱 Currently studying Computer Science at [Babeș-Bolyai University](https://www.ubbcluj.ro/en/)
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/rc445)
+- 😄 Personal Website: [Portfolio](https://razvanix.netlify.app/)
 <!--
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
