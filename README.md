@@ -5,8 +5,8 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 Currently working on [Wave2Notes](https://github.com/Razvanix445/Multi-Task-Automatic-Music-Trascription)
-- 🌱 Currently studying Computer Science at [Babeș-Bolyai University](https://www.ubbcluj.ro/en/)
+- 🔭 Currently working on [RoCodex](https://github.com/Razvanix445/RoCodex)
+- 🌱 Currently studying Applied Computational Intelligence at [Babeș-Bolyai University](https://www.ubbcluj.ro/en/)
 - 📫 How to reach me: [LinkedIn](https://linkedin.com/in/rc445)
 - 😄 Personal Website: [Portfolio](https://razvanix.netlify.app/)
 <!--
@@ -17,6 +17,45 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## 🚀 Personal Projects
+
+<table>
+  <tr>
+    <td align="center" width="150">
+      <a href="https://github.com/Razvanix445/RoCodex">
+        <img src="https://github.com/Razvanix445/RoCodex/blob/main/app_logo.svg" width="64" height="64" alt="RoCodex" />
+        <br><b>RoCodex</b>
+      </a>
+      <br>
+      <sub>RAG Legal Assistant</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/Razvanix445/Multiagent-Invoice-System">
+        <img src="https://github.com/Razvanix445/Multiagent-Invoice-System/blob/main/App-Logo.svg" width="64" height="64" alt="Invoxa" />
+        <br><b>Invoxa</b>
+      </a>
+      <br>
+      <sub>Multiagent Invoice System</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/Razvanix445/Multi-Task-Automatic-Music-Trascription">
+        <img src="https://github.com/Razvanix445/Multi-Task-Automatic-Music-Trascription/blob/main/App%20Icon.png" width="64" height="64" alt="Wave2Notes" />
+        <br><b>Wave2Notes</b>
+      </a>
+      <br>
+      <sub>AI Music Transcription</sub>
+    </td>
+    <td align="center" width="150">
+      <a href="https://github.com/Razvanix445/Multi-Task-Automatic-Music-Trascription">
+        <img src="https://github.com/Razvanix445/Stardew-Valley-App/blob/master/app-logo.jpg" width="64" height="64" alt="Stardew Strategist" />
+        <br><b>Stardew Strategist</b>
+      </a>
+      <br>
+      <sub>C++ QT Desktop App</sub>
+    </td>
+  </tr>
+</table>
+
 ## Tech Stack
 
 ### Languages:
@@ -26,10 +65,10 @@ Here are some ideas to get you started:
       <img src="https://github.com/user-attachments/assets/2f6bc7bc-6433-44cf-8b48-856ae3d7a2f5" width="48" height="48" alt="Python" />
       <br>Python
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://github.com/user-attachments/assets/73ef33e0-a2bb-46db-bd13-9127f4ee0d90" width="48" height="48" alt="C" />
       <br>C
-    </td>
+    </td> -->
     <td align="center" width="96">
       <img src="https://github.com/user-attachments/assets/b29d8fb8-dc6d-432b-a85c-00110c34d0de" width="48" height="48" alt="C++" />
       <br>C++
@@ -38,17 +77,47 @@ Here are some ideas to get you started:
       <img src="https://github.com/user-attachments/assets/e6640807-7e61-4ad6-af23-f17fc53f7f7b" width="48" height="48" alt="Java" />
       <br>Java
     </td>
-    <td align="center" width="96">
+    <!-- <td align="center" width="96">
       <img src="https://github.com/user-attachments/assets/27dde55b-51de-4da3-8338-402204cc9664" width="48" height="48" alt="C#" />
       <br>C#
     </td>
     <td align="center" width="96">
       <img src="https://github.com/user-attachments/assets/9b64b6fe-faa9-4152-bfc5-c9625b7eae58" width="48" height="48" alt="HTML" />
       <br>HTML5
-    </td>
-    <td align="center" width="96">
+    </td> -->
+    <!-- <td align="center" width="96">
       <img src="https://github.com/user-attachments/assets/fc12067a-732c-44b6-867d-35a6e57af2f7" width="48" height="48" alt="JavaScript" />
       <br>JavaScript
+    </td> -->
+  </tr>
+</table>
+
+### AI / Machine Learning:
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+      <br>TensorFlow
+    </td>
+    <!-- <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+      <br>PyTorch
+    </td> -->
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      <br>Pandas
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+      <br>Matplotlib
+    </td>
+    <td align="center" width="96">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" />
+      <br>Scikit-learn
     </td>
   </tr>
 </table>
@@ -107,8 +176,8 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
-### Other Tools:
-<table>
+<!-- ### Other Tools: -->
+<!-- <table>
   <tr>
     <td align="center" width="96">
       <img src="https://github.com/user-attachments/assets/db846eb1-118d-4c6d-bb77-cd98d5ffaadd" width="48" height="48" alt="Postman" />
@@ -123,7 +192,7 @@ Here are some ideas to get you started:
       <br>Cisco
     </td>
   </tr>
-</table>
+</table> -->
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Razvanix445&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
