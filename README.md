@@ -46,7 +46,7 @@ Here are some ideas to get you started:
       <sub>AI Music Transcription</sub>
     </td>
     <td align="center" width="150">
-      <a href="https://github.com/Razvanix445/Multi-Task-Automatic-Music-Trascription">
+      <a href="https://github.com/Razvanix445/Stardew-Valley-App">
         <img src="https://github.com/Razvanix445/Stardew-Valley-App/blob/master/app-logo.jpg" width="64" height="64" alt="Stardew Strategist" />
         <br><b>Stardew Strategist</b>
       </a>
